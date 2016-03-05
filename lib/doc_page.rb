@@ -41,7 +41,7 @@ class DocPage < Html5Page
   end
 
   def git_url
-    "https://github.com/=>railsbridge-nyc/docs/blob/master/sites/#{@locale}/#{@site_name}/#{file_name}"
+    "https://github.com/railsbridge-nyc/docs/blob/master/sites/#{@locale}/#{@site_name}/#{file_name}"
   end
 
   def src_url
@@ -116,14 +116,14 @@ class DocPage < Html5Page
       p "RailsBridge Docs is maintained by RailsBridge volunteers."
       p do
         text "If you find something that could be improved, please make a "
-        a "pull request ", href: "https://github.com/=>railsbridge-nyc/docs"
+        a "pull request ", href: "https://github.com/railsbridge-nyc/docs"
         text "or "
-        a "drop us a note ", href: "https://github.com/=>railsbridge-nyc/docs/issues/new"
+        a "drop us a note ", href: "https://github.com/railsbridge-nyc/docs/issues/new"
         text "via GitHub Issues (no technical knowledge required)."
       end
       p do
         text "Source: "
-        url "https://github.com/=>railsbridge-nyc/docs"
+        url "https://github.com/railsbridge-nyc/docs"
       end
     }
   end
