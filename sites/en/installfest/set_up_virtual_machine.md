@@ -12,13 +12,11 @@ Before the workshop, you might have <a href="/downloads">downloaded</a> the
 RailsBridge virtual machine image, and saved it in the Downloads folder.  Note
 that this may have been updated since our last workshop.
 
-*If you were unable to download the vm ahead of time, we have copies on USB drives.*
-
-**In File Explorer or Finder, drag and drop "railsbridgevm-2015-06.box" from your downloads folder to your new workspace folder.**
+**In File Explorer or Finder, drag and drop "railsbridgevm-2016-06.box" from your downloads folder to your new workspace folder.**
 
 Open your computer's command line. (Windows users, open Git Bash.) See the [Command Line page](command_line) for instructions on how to open it.
 
-**Windows Users:**  It is very important that you use Git Bash instead of Power Shell or Command Prompt! They do not support the ssh command that we need.
+It is very important that Windows users use Git Bash instead of Power Shell or Command Prompt! They do not support the ssh command that we need.
 Open up Git Bash from your desktop or All Programs menu.
 
 <!-- INSTRUCTORS: please remember to update all occurrences of the box -->
@@ -34,15 +32,15 @@ Move into your workspace directory:
 
 Type this:
 
-    vagrant box add railsbridge201506 ./railsbridgevm-2015-06.box
+    vagrant box add railsbridge ./railsbridgevm-2016-06.box
 
 Then type:
 
-    vagrant init railsbridge201506
+    vagrant init railsbridge
 
 Here is what you should see (approximately):
 
-    [~/workspace]$ vagrant init railsbridge201506
+    Your-Computer:railsbridge$ vagrant init railsbridge
     A `Vagrantfile` has been placed in this directory. You are now
     ready to `vagrant up` your first virtual environment! Please read
     the comments in the Vagrantfile as well as documentation on
@@ -76,7 +74,7 @@ It will do something like this:
 
     [~/workspace]$ vagrant up
     Bringing machine 'default' up with 'virtualbox' provider...
-    [default] Importing base box 'railsbridge201506'...
+    [default] Importing base box 'railsbridge'...
     [default] Matching MAC address for NAT networking...
     [default] Setting the name of the VM...
     [default] Clearing any previously set forwarded ports...
