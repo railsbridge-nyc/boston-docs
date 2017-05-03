@@ -68,7 +68,7 @@ fruits = fruits - ["kiwi"]
 
   step do
     console <<-RUBY
-fruit_dictonary[:strawberry]
+fruit_dictionary[:strawberry]
     RUBY
 
     message "Here we're using the **key**, `:strawberry`, to look up the associated **value**, the definition of 'strawberry' in the fruit dictionary."
