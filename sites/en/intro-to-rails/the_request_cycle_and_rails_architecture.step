@@ -24,8 +24,10 @@ explanation do
 
   h2 "Controller"
   message <<-MARKDOWN
-  * Controllers pass Ruby objects between the Models and the Views.
   * When you visit any page in your application, that request will be handled by a method in a Controller.
+  * Controllers use the Models to create, read, update, and delete data from the database.
+  * Controllers pass Ruby objects to the Views.
+
   MARKDOWN
 
   message "**Let's take a look at the Controller file in suggestotron:**"
@@ -65,7 +67,7 @@ explanation do
 
   Creates this **page** in your **web browser**:
 
-  ![Screenshot of topic index page in a web browserread](img/Seattle_list_with_topic.png)
+  ![Screenshot of topic index page in a web browser read](img/Seattle_list_with_topic.png)
   
   Match the rest of the Topic View files (in your text editor, Sublime) to a page in your web browser:
   MARKDOWN
