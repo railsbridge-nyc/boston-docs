@@ -56,7 +56,8 @@ Find the column for your OS, and download each file.
   <td><a href="http://www.sublimetext.com/2">Choose your CPU here</a></td>
 </tr>
 <tr>
-  <td></td>
+   <td></td>
+   <td></td>
    <td><a href="https://github.com/git-for-windows/git/releases/download/v2.9.0.windows.1/Git-2.9.0-32-bit.exe">Git for Windows</a></td>
    <td><a href="https://github.com/git-for-windows/git/releases/download/v2.9.0.windows.1/Git-2.9.0-32-bit.exe">Git for Windows</a></td>
   <td></td>
