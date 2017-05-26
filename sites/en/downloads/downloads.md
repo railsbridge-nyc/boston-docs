@@ -21,6 +21,7 @@ Find the column for your OS, and download each file.
 
 <table class="downloads-files">
 <tr>
+  <th>Mac OS X (10.12+)</th>
   <th>Mac OS X (10.6+)</th>
   <th>Windows (7+)</th>
   <th>Windows (XP-Vista)</th>
@@ -31,8 +32,10 @@ Find the column for your OS, and download each file.
   <td><a href="http://downloads.railsbridge.org/railsbridgevm-2016-06.box">June 2016 VM Image</a></td>
   <td><a href="http://downloads.railsbridge.org/railsbridgevm-2016-06.box">June 2016 VM Image</a></td>
   <td><a href="http://downloads.railsbridge.org/railsbridgevm-2016-06.box">June 2016 VM Image</a></td>
+  <td><a href="http://downloads.railsbridge.org/railsbridgevm-2016-06.box">June 2016 VM Image</a></td>
 </tr>
 <tr>
+  <td><a href="http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg">VirtualBox 5.1.22 Installer</a></td>
   <td><a href="http://download.virtualbox.org/virtualbox/4.3.38/VirtualBox-4.3.38-106717-OSX.dmg">VirtualBox 4.3 Installer</a></td>
   <td><a href="http://download.virtualbox.org/virtualbox/4.3.38/VirtualBox-4.3.38-106717-Win.exe">VirtualBox 4.3 Installer</a></td>
   <td><a href="http://download.virtualbox.org/virtualbox/4.3.38/VirtualBox-4.3.38-106717-Win.exe">VirtualBox 4.3 Installer</a></td>
@@ -40,11 +43,13 @@ Find the column for your OS, and download each file.
 </tr>
 <tr>
   <td><a href="https://releases.hashicorp.com/vagrant/1.8.4/vagrant_1.8.4.dmg">Vagrant 1.8 Installer</a></td>
+  <td><a href="https://releases.hashicorp.com/vagrant/1.8.4/vagrant_1.8.4.dmg">Vagrant 1.8 Installer</a></td>
   <td><a href="https://releases.hashicorp.com/vagrant/1.8.4/vagrant_1.8.4.msi">Vagrant 1.8 Installer</a></td>
   <td><a href="https://releases.hashicorp.com/vagrant/1.5.4/vagrant_1.5.4.msi">Vagrant 1.5 Installer</a></td>
   <td><a href="http://www.vagrantup.com/downloads.html">Choose your distro here</a></td>
 </tr>
 <tr>
+  <td><a href="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg">Sublime Text 2 Installer</a></td>
   <td><a href="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg">Sublime Text 2 Installer</a></td>
   <td><a href="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe">Sublime Text 2 Installer</a></td>
   <td><a href="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe">Sublime Text 2 Installer</a></td>
