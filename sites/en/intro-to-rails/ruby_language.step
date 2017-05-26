@@ -83,7 +83,7 @@ fruit_dictionary[:strawberry]
 fruits.class
 RUBY
 
-    message "These are the three data types introduced so far: **Fixnum** (numbers), **String** (text), **Array** (lists), and **Hash** (dictionaries)."
+    message "These are the four data types introduced so far: **Fixnum** (numbers), **String** (text), **Array** (lists), and **Hash** (dictionaries)."
   end
 
   step do
